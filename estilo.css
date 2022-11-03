@@ -1,0 +1,14 @@
+h1{
+    color: brown;
+    font-size: 100px;
+}
+
+img{
+    width: 500px;
+}
+
+.caja{
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+}
